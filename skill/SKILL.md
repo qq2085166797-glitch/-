@@ -3,7 +3,7 @@ name: detail-flow
 description: Plan, generate, audit, revise, or deliver product detail pages and ecommerce long images from product photos, six-view references, packaging files, product concepts, screenshots, or style references. Use when the user says 生成新的详情页, asks for Chinese ecommerce详情页, 8-screen or 11-13-screen detail pages, product sales pages, digital-product long images, product-structure locking, visual master planning, staged image generation, stitched-preview QA, page-copy planning, SKU/white-background/main-image planning that belongs to a detail-page project, and detail-page workflow optimization.
 ---
 
-# 朱超的SKILL
+# 夜雨声烦的SKILL
 
 ## Overview
 
