@@ -1,6 +1,6 @@
 # yeyushengfan的SKILL
 
-zhuchao的SKILL 是一个用于规划、生成、审核和交付电商详情页的 Codex Skill。调用语为：`生成新的详情页`。它适合把产品图、六视图、包装图、参数资料和风格参考，转成一套结构稳定、叙事连续、文案克制的电商详情页流程。
+yeyushengfan的SKILL 是一个用于规划、生成、审核和交付电商详情页的 Codex Skill。调用语为：`生成新的详情页`。它适合把产品图、六视图、包装图、参数资料和风格参考，转成一套结构稳定、叙事连续、文案克制的电商详情页流程。
 
 新版规则根据数码产品详情页和结构保真规则优化：先建立产品 DNA 和结构锁定，再做页面规划、视觉母版、分屏生成、拼接审核和局部返修。
 
@@ -104,7 +104,7 @@ IP 风格：三丽鸥，面向礼赠和日常可爱桌面场景
 向 Codex 提出：
 
 ```text
-请从 https://github.com/zhuchao080-source/skill 安装这个 Skill。
+请从 https://github.com/yeyushengfan-source/skill 安装这个 Skill。
 ```
 
 ### 手动安装
@@ -112,13 +112,13 @@ IP 风格：三丽鸥，面向礼赠和日常可爱桌面场景
 Windows PowerShell：
 
 ```powershell
-git clone https://github.com/zhuchao080-source/skill.git "$env:USERPROFILE\.codex\skills\detail-flow"
+git clone https://github.com/yeyushengfan-source/skill.git "$env:USERPROFILE\.codex\skills\detail-flow"
 ```
 
 macOS / Linux：
 
 ```bash
-git clone https://github.com/zhuchao080-source/skill.git ~/.codex/skills/detail-flow
+git clone https://github.com/yeyushengfan-source/skill.git ~/.codex/skills/detail-flow
 ```
 
 安装后可以通过调用语 `生成新的详情页` 触发它。为保持 Codex Skill 校验通过，内部技能名仍保留为 `detail-flow`。
@@ -180,4 +180,4 @@ git clone https://github.com/zhuchao080-source/skill.git ~/.codex/skills/detail-
 
 ## Repository
 
-https://github.com/zhuchao080-source/skill
+https://github.com/yeyushengfan-source/skill
