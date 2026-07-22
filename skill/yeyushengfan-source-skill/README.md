@@ -53,7 +53,7 @@ IP 风格：三丽鸥，面向礼赠和日常可爱桌面场景
 目标平台：淘宝详情页，790px 宽
 ```
 
-如果没有提供卖点或参数，朱超的SKILL 会使用产品图片可见事实和谨慎的品类推断，但不会虚构容量、功率、蓝牙版本、防水等级、认证、授权编号、制造商信息、条码或包装小字。
+如果没有提供卖点或参数，夜雨声烦的SKILL 会使用产品图片可见事实和谨慎的品类推断，但不会虚构容量、功率、蓝牙版本、防水等级、认证、授权编号、制造商信息、条码或包装小字。
 
 ## 工作流程
 
@@ -104,7 +104,7 @@ IP 风格：三丽鸥，面向礼赠和日常可爱桌面场景
 向 Codex 提出：
 
 ```text
-请从 https://github.com/zhuchao080-source/skill 安装这个 Skill。
+请从 https://github.com/yeyushengfan-source/skill 安装这个 Skill。
 ```
 
 ### 手动安装
@@ -112,13 +112,13 @@ IP 风格：三丽鸥，面向礼赠和日常可爱桌面场景
 Windows PowerShell：
 
 ```powershell
-git clone https://github.com/zhuchao080-source/skill.git "$env:USERPROFILE\.codex\skills\detail-flow"
+git clone https://github.com/yeyushengfan-source/skill.git "$env:USERPROFILE\.codex\skills\detail-flow"
 ```
 
 macOS / Linux：
 
 ```bash
-git clone https://github.com/zhuchao080-source/skill.git ~/.codex/skills/detail-flow
+git clone https://github.com/yeyushengfan-source/skill.git ~/.codex/skills/detail-flow
 ```
 
 安装后可以通过调用语 `生成新的详情页` 触发它。为保持 Codex Skill 校验通过，内部技能名仍保留为 `detail-flow`。
@@ -126,7 +126,7 @@ git clone https://github.com/zhuchao080-source/skill.git ~/.codex/skills/detail-
 ## 文件结构
 
 ```text
-朱超的SKILL/
+夜雨声烦的SKILL/
 ├── SKILL.md
 ├── agents/
 │   └── openai.yaml
@@ -180,4 +180,4 @@ git clone https://github.com/zhuchao080-source/skill.git ~/.codex/skills/detail-
 
 ## Repository
 
-https://github.com/zhuchao080-source/skill
+https://github.com/yeyushengfan-source/skill
