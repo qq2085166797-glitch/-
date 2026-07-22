@@ -1,4 +1,4 @@
-# zhuchao的SKILL
+# yeyushengfan的SKILL
 
 zhuchao的SKILL 是一个用于规划、生成、审核和交付电商详情页的 Codex Skill。调用语为：`生成新的详情页`。它适合把产品图、六视图、包装图、参数资料和风格参考，转成一套结构稳定、叙事连续、文案克制的电商详情页流程。
 
@@ -126,7 +126,7 @@ git clone https://github.com/zhuchao080-source/skill.git ~/.codex/skills/detail-
 ## 文件结构
 
 ```text
-朱超的SKILL/
+夜雨声烦的SKILL/
 ├── SKILL.md
 ├── agents/
 │   └── openai.yaml
